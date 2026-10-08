@@ -1,0 +1,10 @@
+id,title,genre,rating,year,language,duration,status,favorite,date_added,date_watched,notes
+1,Interstellar,Sci-Fi,4.8,2014,English,169,Watched,Yes,2026-09-01,2026-09-02,Excellent science fiction
+2,Inception,Sci-Fi,4.7,2010,English,148,Watched,Yes,2026-09-03,2026-09-04,Great concept
+3,3 Idiots,Comedy,4.6,2009,Hindi,170,Watched,Yes,2026-09-05,2026-09-06,Inspirational
+4,The Dark Knight,Action,4.9,2008,English,152,Watched,Yes,2026-09-07,2026-09-08,Outstanding
+5,Stree,Horror,4.0,2018,Hindi,128,Plan to Watch,No,2026-09-10,,Fun horror
+6,Dangal,Drama,4.5,2016,Hindi,161,Watched,Yes,2026-09-12,2026-09-13,Sports drama
+7,Avengers: Endgame,Action,4.4,2019,English,181,Watching,Yes,2026-09-15,,Marvel
+8,Spirited Away,Animation,4.7,2001,Other,125,Plan to Watch,No,2026-09-18,,Animated classic
+9,I,Crime,5.0,2016,Hindi,118,Watched,Yes,2026-10-07,2026-10-07,BEST
